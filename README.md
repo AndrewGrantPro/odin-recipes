@@ -1,0 +1,1 @@
+This recipes project is a simple web project that will have a main recipes page and links to individual recipes. It is mainly done to practice HTML & CSS
